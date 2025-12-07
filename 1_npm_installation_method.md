@@ -1,0 +1,6 @@
+ - Download node.js
+ - run the installer
+ - verify installation by using cmd
+ - run node -v
+ - run npm -v
+ - the npm is installed 
