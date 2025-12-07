@@ -1,0 +1,8 @@
+- check system requirements
+- enable wsl
+- run the code in cmd (wsl --install)
+- download docker desktop
+- install docker
+- start docker desktop
+- verify installation by run the code (docker --version) and (docker run hello-world)
+- the installation is completed successfully
